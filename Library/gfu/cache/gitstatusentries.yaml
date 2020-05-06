@@ -13,6 +13,1844 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 0001-01-01T00:00:00.000+00:00
-  initializedAtString: 0001-01-01T00:00:00.000+00:00
-  entries: []
+  lastUpdatedAtString: 2020-05-06T02:04:07.456-07:00
+  initializedAtString: 2020-05-05T22:43:27.970-07:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/minana/Documents/Gloom/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/Gloom/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponents-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponents-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponents-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponentsEditor-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponentsEditor-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponentsEditor-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponentsExamples-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponentsExamples-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponentsExamples-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponentsExamplesEditor-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponentsExamplesEditor-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponentsExamplesEditor-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponentsTestsEditmode-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponentsTestsEditmode-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponentsTestsEditmode-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/project-cache/NavMeshComponentsTestsPlaymode-Debug.json
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/project-cache/NavMeshComponentsTestsPlaymode-Debug.json
+    projectPath: .vs/Gloom/xs/project-cache/NavMeshComponentsTestsPlaymode-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/sqlite3/db.lock
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/sqlite3/db.lock
+    projectPath: .vs/Gloom/xs/sqlite3/db.lock
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/sqlite3/storage.ide
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/sqlite3/storage.ide
+    projectPath: .vs/Gloom/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/Gloom/xs/UserPrefs.xml
+    fullPath: /Users/minana/Documents/Gloom/.vs/Gloom/xs/UserPrefs.xml
+    projectPath: .vs/Gloom/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/minana/Documents/Gloom/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/.DS_Store
+    fullPath: /Users/minana/Documents/Gloom/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Animations/Enemy.controller
+    fullPath: /Users/minana/Documents/Gloom/Assets/Animations/Enemy.controller
+    projectPath: Assets/Animations/Enemy.controller
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/Iteration 3.unity
+    fullPath: /Users/minana/Documents/Gloom/Assets/Scenes/Iteration 3.unity
+    projectPath: Assets/Scenes/Iteration 3.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/EnemyAI/EnemyAI.cs
+    fullPath: /Users/minana/Documents/Gloom/Assets/Scripts/EnemyAI/EnemyAI.cs
+    projectPath: Assets/Scripts/EnemyAI/EnemyAI.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/EnemyAI/EnemyAttack.cs
+    fullPath: /Users/minana/Documents/Gloom/Assets/Scripts/EnemyAI/EnemyAttack.cs
+    projectPath: Assets/Scripts/EnemyAI/EnemyAttack.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/EnemyAI/EnemyController.cs
+    fullPath: /Users/minana/Documents/Gloom/Assets/Scripts/EnemyAI/EnemyController.cs
+    projectPath: Assets/Scripts/EnemyAI/EnemyController.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/EnemyAI/PlayerHealth.cs
+    fullPath: /Users/minana/Documents/Gloom/Assets/Scripts/EnemyAI/PlayerHealth.cs
+    projectPath: Assets/Scripts/EnemyAI/PlayerHealth.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Starfield Skybox.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox.meta
+    projectPath: Assets/Starfield Skybox.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo.meta
+    projectPath: Assets/Starfield Skybox/Demo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/DemoScene.unity
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/DemoScene.unity
+    projectPath: Assets/Starfield Skybox/Demo/DemoScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/DemoScene.unity.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/DemoScene.unity.meta
+    projectPath: Assets/Starfield Skybox/Demo/DemoScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Script.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Script.meta
+    projectPath: Assets/Starfield Skybox/Demo/Script.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Script/LookCamera.cs
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Script/LookCamera.cs
+    projectPath: Assets/Starfield Skybox/Demo/Script/LookCamera.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Script/LookCamera.cs.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Script/LookCamera.cs.meta
+    projectPath: Assets/Starfield Skybox/Demo/Script/LookCamera.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Back_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Back_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Back_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Down_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Down_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Down_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Front_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Front_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Front_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Left_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Left_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Left_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Right_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Right_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Right_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Up_Tex.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Up_Tex.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta
+    projectPath: Assets/Starfield Skybox/Demo/Textures/Up_Tex.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Skybox.mat
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Skybox.mat
+    projectPath: Assets/Starfield Skybox/Skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Starfield Skybox/Skybox.mat.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/Starfield Skybox/Skybox.mat.meta
+    projectPath: Assets/Starfield Skybox/Skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro.meta
+    projectPath: Assets/TextMesh Pro.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Documentation.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Documentation.meta
+    projectPath: Assets/TextMesh Pro/Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Documentation/TextMesh
+      Pro User Guide 2016.pdf
+    projectPath: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Documentation/TextMesh
+      Pro User Guide 2016.pdf.meta
+    projectPath: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Fonts.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Fonts.meta
+    projectPath: Assets/TextMesh Pro/Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Fonts/LiberationSans
+      - OFL.txt
+    projectPath: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Fonts/LiberationSans
+      - OFL.txt.meta
+    projectPath: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    projectPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    projectPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources.meta
+    projectPath: Assets/TextMesh Pro/Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials.meta
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop
+      Shadow.mat
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Drop Shadow.mat
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop
+      Shadow.mat.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Drop Shadow.mat.meta
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Fallback.asset
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Fallback.asset.meta
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Outline.mat
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF - Outline.mat.meta
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF.asset
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Fonts &
+      Materials/LiberationSans SDF.asset.meta
+    projectPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/LineBreaking
+      Following Characters.txt
+    projectPath: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/LineBreaking
+      Following Characters.txt.meta
+    projectPath: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/LineBreaking
+      Leading Characters.txt
+    projectPath: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/LineBreaking
+      Leading Characters.txt.meta
+    projectPath: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF
+      Overlay.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF
+      Overlay.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+      Masking.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+      Masking.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+      Overlay.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile
+      Overlay.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+    projectPath: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Sprite
+      Assets.meta
+    projectPath: Assets/TextMesh Pro/Resources/Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Sprite
+      Assets/EmojiOne.asset
+    projectPath: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Sprite
+      Assets/EmojiOne.asset.meta
+    projectPath: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Style Sheets.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Style Sheets.meta
+    projectPath: Assets/TextMesh Pro/Resources/Style Sheets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Style Sheets/Default
+      Style Sheet.asset
+    projectPath: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/Style Sheets/Default
+      Style Sheet.asset.meta
+    projectPath: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/TMP Settings.asset
+    projectPath: Assets/TextMesh Pro/Resources/TMP Settings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    projectPath: Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites.meta
+    projectPath: Assets/TextMesh Pro/Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne
+      Attribution.txt
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne
+      Attribution.txt.meta
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne.json
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne.png
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    fullPath: /Users/minana/Documents/Gloom/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    projectPath: Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Zombie/Animations/Z_Idle.anim
+    fullPath: /Users/minana/Documents/Gloom/Assets/Zombie/Animations/Z_Idle.anim
+    projectPath: Assets/Zombie/Animations/Z_Idle.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Zombie/Animations/Z_Walk.anim
+    fullPath: /Users/minana/Documents/Gloom/Assets/Zombie/Animations/Z_Walk.anim
+    projectPath: Assets/Zombie/Animations/Z_Walk.anim
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ArtifactDB
+    fullPath: /Users/minana/Documents/Gloom/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/07/075050c14b755a373a5f044119687913
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/07/075050c14b755a373a5f044119687913
+    projectPath: Library/Artifacts/07/075050c14b755a373a5f044119687913
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/12/12df47f0131fb94214a41d9d70c05b59
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/12/12df47f0131fb94214a41d9d70c05b59
+    projectPath: Library/Artifacts/12/12df47f0131fb94214a41d9d70c05b59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/17/1716117f3ae5e2f29c4738bc59450ceb
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/17/1716117f3ae5e2f29c4738bc59450ceb
+    projectPath: Library/Artifacts/17/1716117f3ae5e2f29c4738bc59450ceb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1b/1bbc3a751add8125e8a756a0b810f3eb
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/1b/1bbc3a751add8125e8a756a0b810f3eb
+    projectPath: Library/Artifacts/1b/1bbc3a751add8125e8a756a0b810f3eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1d/1dbdf81a03014e43a40f97bbf8625c41
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/1d/1dbdf81a03014e43a40f97bbf8625c41
+    projectPath: Library/Artifacts/1d/1dbdf81a03014e43a40f97bbf8625c41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/1e/1eb26560d0c6ecdef79a19967620be66
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/1e/1eb26560d0c6ecdef79a19967620be66
+    projectPath: Library/Artifacts/1e/1eb26560d0c6ecdef79a19967620be66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/21/21a1087ade96583467f2d93ccf54e388
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/21/21a1087ade96583467f2d93ccf54e388
+    projectPath: Library/Artifacts/21/21a1087ade96583467f2d93ccf54e388
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/25/2512d2517160b6327de56be1683b5a82
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/25/2512d2517160b6327de56be1683b5a82
+    projectPath: Library/Artifacts/25/2512d2517160b6327de56be1683b5a82
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/26/268ea19b2866376706e893ae4acd1e1b
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/26/268ea19b2866376706e893ae4acd1e1b
+    projectPath: Library/Artifacts/26/268ea19b2866376706e893ae4acd1e1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/36/363ec5dd21c1042027107065215a5d7d
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/36/363ec5dd21c1042027107065215a5d7d
+    projectPath: Library/Artifacts/36/363ec5dd21c1042027107065215a5d7d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/38/3812cf3f65e9937a6a00fd3ca955c5cf
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/38/3812cf3f65e9937a6a00fd3ca955c5cf
+    projectPath: Library/Artifacts/38/3812cf3f65e9937a6a00fd3ca955c5cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/39/3983d446a6c39738520f1cc1f3b66203
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/39/3983d446a6c39738520f1cc1f3b66203
+    projectPath: Library/Artifacts/39/3983d446a6c39738520f1cc1f3b66203
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/3e/3e12a6c4fa0e3610877c828e610dcc22
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/3e/3e12a6c4fa0e3610877c828e610dcc22
+    projectPath: Library/Artifacts/3e/3e12a6c4fa0e3610877c828e610dcc22
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/40/40e5b593107c5dbdf11081411c7913a9
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/40/40e5b593107c5dbdf11081411c7913a9
+    projectPath: Library/Artifacts/40/40e5b593107c5dbdf11081411c7913a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/43/43dd4ef60b62d166e100b7c1c9aba645
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/43/43dd4ef60b62d166e100b7c1c9aba645
+    projectPath: Library/Artifacts/43/43dd4ef60b62d166e100b7c1c9aba645
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/44/44fa9b9e61cf21a2a431b0bb7bbc9c59
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/44/44fa9b9e61cf21a2a431b0bb7bbc9c59
+    projectPath: Library/Artifacts/44/44fa9b9e61cf21a2a431b0bb7bbc9c59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/4e/4e03117eb92eaf8738d5c79e049eae51
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/4e/4e03117eb92eaf8738d5c79e049eae51
+    projectPath: Library/Artifacts/4e/4e03117eb92eaf8738d5c79e049eae51
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/56/5654bd1db0b221776850771e24f4e1f5
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/56/5654bd1db0b221776850771e24f4e1f5
+    projectPath: Library/Artifacts/56/5654bd1db0b221776850771e24f4e1f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5a/5a788fa5b8ae5562257ea2d881659a64
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/5a/5a788fa5b8ae5562257ea2d881659a64
+    projectPath: Library/Artifacts/5a/5a788fa5b8ae5562257ea2d881659a64
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/5d/5da673d1343c565792e6e7fcb2e3821c
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/5d/5da673d1343c565792e6e7fcb2e3821c
+    projectPath: Library/Artifacts/5d/5da673d1343c565792e6e7fcb2e3821c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/60/60b8b423d82afb00142e4134a9ee7b56
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/60/60b8b423d82afb00142e4134a9ee7b56
+    projectPath: Library/Artifacts/60/60b8b423d82afb00142e4134a9ee7b56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/60/60e324217200ee69406226dd272dcec4
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/60/60e324217200ee69406226dd272dcec4
+    projectPath: Library/Artifacts/60/60e324217200ee69406226dd272dcec4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/63/63671b10656f9f26198e4d390af580a6
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/63/63671b10656f9f26198e4d390af580a6
+    projectPath: Library/Artifacts/63/63671b10656f9f26198e4d390af580a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/64/64245135b9f86d39dcdbe1dbcc1f1215
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/64/64245135b9f86d39dcdbe1dbcc1f1215
+    projectPath: Library/Artifacts/64/64245135b9f86d39dcdbe1dbcc1f1215
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/66/661b95bc7a46aa7ae70b18e6952d9026
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/66/661b95bc7a46aa7ae70b18e6952d9026
+    projectPath: Library/Artifacts/66/661b95bc7a46aa7ae70b18e6952d9026
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/66/666367d5e91ed3554328726fcc73c6ea
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/66/666367d5e91ed3554328726fcc73c6ea
+    projectPath: Library/Artifacts/66/666367d5e91ed3554328726fcc73c6ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/68/6866daa5e5e0a7aaaeeda8488614e0de
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/68/6866daa5e5e0a7aaaeeda8488614e0de
+    projectPath: Library/Artifacts/68/6866daa5e5e0a7aaaeeda8488614e0de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/70/70ba5d1dc772a7ee5a5b339983b98023
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/70/70ba5d1dc772a7ee5a5b339983b98023
+    projectPath: Library/Artifacts/70/70ba5d1dc772a7ee5a5b339983b98023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/74/747f4cc18a4cbeb503eba2417fe612f7
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/74/747f4cc18a4cbeb503eba2417fe612f7
+    projectPath: Library/Artifacts/74/747f4cc18a4cbeb503eba2417fe612f7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/82/82ed82bd70bfd19992f4698aab4d8509
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/82/82ed82bd70bfd19992f4698aab4d8509
+    projectPath: Library/Artifacts/82/82ed82bd70bfd19992f4698aab4d8509
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/86/8609d759a7dcfacbb5cbe6494a0d4c76
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/86/8609d759a7dcfacbb5cbe6494a0d4c76
+    projectPath: Library/Artifacts/86/8609d759a7dcfacbb5cbe6494a0d4c76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/89/8995f56ac642b195532e6b8079b5e8e8
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/89/8995f56ac642b195532e6b8079b5e8e8
+    projectPath: Library/Artifacts/89/8995f56ac642b195532e6b8079b5e8e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8a/8a0c66f523f9341b0824a0bad12d42d2
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/8a/8a0c66f523f9341b0824a0bad12d42d2
+    projectPath: Library/Artifacts/8a/8a0c66f523f9341b0824a0bad12d42d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/8e/8e7c571ada9824aee9691ad076d73e8c
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/8e/8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library/Artifacts/8e/8e7c571ada9824aee9691ad076d73e8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/94/947936b4996d5809f47199319f79869e
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/94/947936b4996d5809f47199319f79869e
+    projectPath: Library/Artifacts/94/947936b4996d5809f47199319f79869e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/94/94a0305664705e3adaec70eca3523a14
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/94/94a0305664705e3adaec70eca3523a14
+    projectPath: Library/Artifacts/94/94a0305664705e3adaec70eca3523a14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/96/9634e975a96e99af57e64d5db33b6f01
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/96/9634e975a96e99af57e64d5db33b6f01
+    projectPath: Library/Artifacts/96/9634e975a96e99af57e64d5db33b6f01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9a/9a61a3e1e790d4a6d569c720b64d274b
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/9a/9a61a3e1e790d4a6d569c720b64d274b
+    projectPath: Library/Artifacts/9a/9a61a3e1e790d4a6d569c720b64d274b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9d/9de56f916ebfc78ad1ab2c48838a34d9
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/9d/9de56f916ebfc78ad1ab2c48838a34d9
+    projectPath: Library/Artifacts/9d/9de56f916ebfc78ad1ab2c48838a34d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/9f/9f32a7eedee7fc1d0bda750b03536e06
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/9f/9f32a7eedee7fc1d0bda750b03536e06
+    projectPath: Library/Artifacts/9f/9f32a7eedee7fc1d0bda750b03536e06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a0/a0185dbaa4425ffe240cb42dc52c6f23
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a0/a0185dbaa4425ffe240cb42dc52c6f23
+    projectPath: Library/Artifacts/a0/a0185dbaa4425ffe240cb42dc52c6f23
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a1/a11612be5680cd0b9bf36e9e32c81882
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a1/a11612be5680cd0b9bf36e9e32c81882
+    projectPath: Library/Artifacts/a1/a11612be5680cd0b9bf36e9e32c81882
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a2/a26657029670b805b5dd826944f1aed1
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a2/a26657029670b805b5dd826944f1aed1
+    projectPath: Library/Artifacts/a2/a26657029670b805b5dd826944f1aed1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/a4/a48731c660ee23cd39fcac7870b173c3
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a4/a48731c660ee23cd39fcac7870b173c3
+    projectPath: Library/Artifacts/a4/a48731c660ee23cd39fcac7870b173c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a7/a7946b479d92de433dc92328a477edd4
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a7/a7946b479d92de433dc92328a477edd4
+    projectPath: Library/Artifacts/a7/a7946b479d92de433dc92328a477edd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/a7/a794838969f900aa7709f2e9937605db
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/a7/a794838969f900aa7709f2e9937605db
+    projectPath: Library/Artifacts/a7/a794838969f900aa7709f2e9937605db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b0/b0fbabafe9c52734c7cc16f3c2b4bfd7
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b0/b0fbabafe9c52734c7cc16f3c2b4bfd7
+    projectPath: Library/Artifacts/b0/b0fbabafe9c52734c7cc16f3c2b4bfd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b2/b2e0c2904cffe3997c42a303caf8b9dc
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b2/b2e0c2904cffe3997c42a303caf8b9dc
+    projectPath: Library/Artifacts/b2/b2e0c2904cffe3997c42a303caf8b9dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b3/b38a6c5fa8cec1e0d914c0715558120f
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b3/b38a6c5fa8cec1e0d914c0715558120f
+    projectPath: Library/Artifacts/b3/b38a6c5fa8cec1e0d914c0715558120f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b7/b7122a32e8f4f63c7d192953a31116b2
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b7/b7122a32e8f4f63c7d192953a31116b2
+    projectPath: Library/Artifacts/b7/b7122a32e8f4f63c7d192953a31116b2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b8/b81a3d5eea15a1db8b8548121639915f
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b8/b81a3d5eea15a1db8b8548121639915f
+    projectPath: Library/Artifacts/b8/b81a3d5eea15a1db8b8548121639915f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b9/b952d849b93c8ae32224b68f530f7e8b
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b9/b952d849b93c8ae32224b68f530f7e8b
+    projectPath: Library/Artifacts/b9/b952d849b93c8ae32224b68f530f7e8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b9/b97281d92a1335dacb2137cdd06946af
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b9/b97281d92a1335dacb2137cdd06946af
+    projectPath: Library/Artifacts/b9/b97281d92a1335dacb2137cdd06946af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/b9/b9a78d11483883cece8d415408506684
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/b9/b9a78d11483883cece8d415408506684
+    projectPath: Library/Artifacts/b9/b9a78d11483883cece8d415408506684
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bc/bcedd9427448148c6f679940aec8870b
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/bc/bcedd9427448148c6f679940aec8870b
+    projectPath: Library/Artifacts/bc/bcedd9427448148c6f679940aec8870b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/bd/bd61c477697509187dc2934a968edf5a
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/bd/bd61c477697509187dc2934a968edf5a
+    projectPath: Library/Artifacts/bd/bd61c477697509187dc2934a968edf5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/be/be4a152b559276ab541438a638e93349
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/be/be4a152b559276ab541438a638e93349
+    projectPath: Library/Artifacts/be/be4a152b559276ab541438a638e93349
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c7/c7f9b13e8a9cde7e4153bd2c5d6ab23f
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/c7/c7f9b13e8a9cde7e4153bd2c5d6ab23f
+    projectPath: Library/Artifacts/c7/c7f9b13e8a9cde7e4153bd2c5d6ab23f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/c8/c8a5b2b8f0ade2b3a990ed1f9714815f
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/c8/c8a5b2b8f0ade2b3a990ed1f9714815f
+    projectPath: Library/Artifacts/c8/c8a5b2b8f0ade2b3a990ed1f9714815f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/ca2e84ca1787453a67c547f65c7253c8
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/ca/ca2e84ca1787453a67c547f65c7253c8
+    projectPath: Library/Artifacts/ca/ca2e84ca1787453a67c547f65c7253c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ca/ca3c0ba9fb1e0c1416ebb2676cd0eaa6
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/ca/ca3c0ba9fb1e0c1416ebb2676cd0eaa6
+    projectPath: Library/Artifacts/ca/ca3c0ba9fb1e0c1416ebb2676cd0eaa6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/cc/cc714304440f6b5470f959140acbfbf1
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/cc/cc714304440f6b5470f959140acbfbf1
+    projectPath: Library/Artifacts/cc/cc714304440f6b5470f959140acbfbf1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d3/d34c7e54b69ed7f385890370c3e42182
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/d3/d34c7e54b69ed7f385890370c3e42182
+    projectPath: Library/Artifacts/d3/d34c7e54b69ed7f385890370c3e42182
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/d7/d7fb182dde801e1db2ecd0ea4884ad1f
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/d7/d7fb182dde801e1db2ecd0ea4884ad1f
+    projectPath: Library/Artifacts/d7/d7fb182dde801e1db2ecd0ea4884ad1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ea/ea8aa777baddc14207fd50c999a42a81
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/ea/ea8aa777baddc14207fd50c999a42a81
+    projectPath: Library/Artifacts/ea/ea8aa777baddc14207fd50c999a42a81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ec/ec0711deebf12ca5a999d0f0e6457538
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/ec/ec0711deebf12ca5a999d0f0e6457538
+    projectPath: Library/Artifacts/ec/ec0711deebf12ca5a999d0f0e6457538
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/ec/ecbed2496574e3f228170898c08c6d60
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/ec/ecbed2496574e3f228170898c08c6d60
+    projectPath: Library/Artifacts/ec/ecbed2496574e3f228170898c08c6d60
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f0/f0dd0b544f64b9769a3c272e003f6c87
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/f0/f0dd0b544f64b9769a3c272e003f6c87
+    projectPath: Library/Artifacts/f0/f0dd0b544f64b9769a3c272e003f6c87
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f6/f67143a690c5499bbace151740da2bab
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/f6/f67143a690c5499bbace151740da2bab
+    projectPath: Library/Artifacts/f6/f67143a690c5499bbace151740da2bab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/Artifacts/f8/f89c94e54fae324e951cd21ef8fcca90
+    fullPath: /Users/minana/Documents/Gloom/Library/Artifacts/f8/f89c94e54fae324e951cd21ef8fcca90
+    projectPath: Library/Artifacts/f8/f89c94e54fae324e951cd21ef8fcca90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/minana/Documents/Gloom/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/minana/Documents/Gloom/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/minana/Documents/Gloom/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/minana/Documents/Gloom/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/minana/Documents/Gloom/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/minana/Documents/Gloom/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/InspectorExpandedItems.asset
+    fullPath: /Users/minana/Documents/Gloom/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: /Users/minana/Documents/Gloom/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/minana/Documents/Gloom/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/minana/Documents/Gloom/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    fullPath: /Users/minana/Documents/Gloom/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    fullPath: /Users/minana/Documents/Gloom/Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptMapper
+    fullPath: /Users/minana/Documents/Gloom/Library/ScriptMapper
+    projectPath: Library/ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/0/06672dda8865ca8bad1580b4c65e8552.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/0/06672dda8865ca8bad1580b4c65e8552.bin
+    projectPath: Library/ShaderCache/0/06672dda8865ca8bad1580b4c65e8552.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/0/0f7b94aa76a93c1b98a00ed108838fe3.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/0/0f7b94aa76a93c1b98a00ed108838fe3.bin
+    projectPath: Library/ShaderCache/0/0f7b94aa76a93c1b98a00ed108838fe3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/1/1225e9605eb526c7828c7dd866995c14.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/1/1225e9605eb526c7828c7dd866995c14.bin
+    projectPath: Library/ShaderCache/1/1225e9605eb526c7828c7dd866995c14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/1/1490d39c136e7de50bd70ed44c842498.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/1/1490d39c136e7de50bd70ed44c842498.bin
+    projectPath: Library/ShaderCache/1/1490d39c136e7de50bd70ed44c842498.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/2/29fd901ec528f249967bd64e6a08ece9.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/2/29fd901ec528f249967bd64e6a08ece9.bin
+    projectPath: Library/ShaderCache/2/29fd901ec528f249967bd64e6a08ece9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/2/2fb8264488f4c707a9d315427ebed27b.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/2/2fb8264488f4c707a9d315427ebed27b.bin
+    projectPath: Library/ShaderCache/2/2fb8264488f4c707a9d315427ebed27b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/2/2feeb29dcead33c75ac6f72c4692dbab.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/2/2feeb29dcead33c75ac6f72c4692dbab.bin
+    projectPath: Library/ShaderCache/2/2feeb29dcead33c75ac6f72c4692dbab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/3/3a761b0dab04723bd5f6ef3d7e2326f4.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/3/3a761b0dab04723bd5f6ef3d7e2326f4.bin
+    projectPath: Library/ShaderCache/3/3a761b0dab04723bd5f6ef3d7e2326f4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/3/3d9da0a59dd754a46645f0f7ed658279.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/3/3d9da0a59dd754a46645f0f7ed658279.bin
+    projectPath: Library/ShaderCache/3/3d9da0a59dd754a46645f0f7ed658279.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/414723cfaa98859e11c4872cc65c25b4.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/414723cfaa98859e11c4872cc65c25b4.bin
+    projectPath: Library/ShaderCache/4/414723cfaa98859e11c4872cc65c25b4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/42a0343fc9195f138abe99a3e5d8afbc.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/42a0343fc9195f138abe99a3e5d8afbc.bin
+    projectPath: Library/ShaderCache/4/42a0343fc9195f138abe99a3e5d8afbc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/43e0044b9bb96a3de19d2ad0ce5d14ff.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/43e0044b9bb96a3de19d2ad0ce5d14ff.bin
+    projectPath: Library/ShaderCache/4/43e0044b9bb96a3de19d2ad0ce5d14ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/440d9fe90f7fa047b8bdc78b9a34e018.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/440d9fe90f7fa047b8bdc78b9a34e018.bin
+    projectPath: Library/ShaderCache/4/440d9fe90f7fa047b8bdc78b9a34e018.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/462a727bc3d78c5c27fcb74ad3012ec5.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/462a727bc3d78c5c27fcb74ad3012ec5.bin
+    projectPath: Library/ShaderCache/4/462a727bc3d78c5c27fcb74ad3012ec5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/4/4fcd3dbebba546678f8bdead83299f35.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/4/4fcd3dbebba546678f8bdead83299f35.bin
+    projectPath: Library/ShaderCache/4/4fcd3dbebba546678f8bdead83299f35.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/53a9bc0df153f1610e54df6c8d173a48.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/53a9bc0df153f1610e54df6c8d173a48.bin
+    projectPath: Library/ShaderCache/5/53a9bc0df153f1610e54df6c8d173a48.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/55e01b47b54a9b01a68fd0b01069851d.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/55e01b47b54a9b01a68fd0b01069851d.bin
+    projectPath: Library/ShaderCache/5/55e01b47b54a9b01a68fd0b01069851d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/58dad25728b5379fe537239f1daeecb3.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/58dad25728b5379fe537239f1daeecb3.bin
+    projectPath: Library/ShaderCache/5/58dad25728b5379fe537239f1daeecb3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/5b5891f9bef8e6528501ab2fd3b90f28.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/5b5891f9bef8e6528501ab2fd3b90f28.bin
+    projectPath: Library/ShaderCache/5/5b5891f9bef8e6528501ab2fd3b90f28.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/5cbcdc8e3b2219b63965a8811ccddd44.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/5cbcdc8e3b2219b63965a8811ccddd44.bin
+    projectPath: Library/ShaderCache/5/5cbcdc8e3b2219b63965a8811ccddd44.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/5/5fb7b46f5089f8eb6aa33655ee9841eb.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/5/5fb7b46f5089f8eb6aa33655ee9841eb.bin
+    projectPath: Library/ShaderCache/5/5fb7b46f5089f8eb6aa33655ee9841eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/6/60f6019e6c8abe2cdb6b98edbafdbb84.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/6/60f6019e6c8abe2cdb6b98edbafdbb84.bin
+    projectPath: Library/ShaderCache/6/60f6019e6c8abe2cdb6b98edbafdbb84.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/6/6a68d8f38f0c85bde98a90cba71a22ee.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/6/6a68d8f38f0c85bde98a90cba71a22ee.bin
+    projectPath: Library/ShaderCache/6/6a68d8f38f0c85bde98a90cba71a22ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/7/77c62d6c9f966cbad8e510c6df0a7a31.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/7/77c62d6c9f966cbad8e510c6df0a7a31.bin
+    projectPath: Library/ShaderCache/7/77c62d6c9f966cbad8e510c6df0a7a31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/7/7eccdfe4aa9b23f53d12b6347a247a6f.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/7/7eccdfe4aa9b23f53d12b6347a247a6f.bin
+    projectPath: Library/ShaderCache/7/7eccdfe4aa9b23f53d12b6347a247a6f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/8/82469125a397296d9e3ffc7ae85745da.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/8/82469125a397296d9e3ffc7ae85745da.bin
+    projectPath: Library/ShaderCache/8/82469125a397296d9e3ffc7ae85745da.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/8/8913fc8a2a9d698a97c467f69c3be4e9.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/8/8913fc8a2a9d698a97c467f69c3be4e9.bin
+    projectPath: Library/ShaderCache/8/8913fc8a2a9d698a97c467f69c3be4e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/8/8f91c61f718ca1b543c32bb2c2789071.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/8/8f91c61f718ca1b543c32bb2c2789071.bin
+    projectPath: Library/ShaderCache/8/8f91c61f718ca1b543c32bb2c2789071.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/92725f818c9d97b42bd9cbc39faae543.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/9/92725f818c9d97b42bd9cbc39faae543.bin
+    projectPath: Library/ShaderCache/9/92725f818c9d97b42bd9cbc39faae543.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/92ac1e2164692ecaefe7eed3776fbe78.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/9/92ac1e2164692ecaefe7eed3776fbe78.bin
+    projectPath: Library/ShaderCache/9/92ac1e2164692ecaefe7eed3776fbe78.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/97c827465b6037c2e6c6f69c4afd5073.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/9/97c827465b6037c2e6c6f69c4afd5073.bin
+    projectPath: Library/ShaderCache/9/97c827465b6037c2e6c6f69c4afd5073.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/9c27a09aa5dc68d78c12d67283482296.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/9/9c27a09aa5dc68d78c12d67283482296.bin
+    projectPath: Library/ShaderCache/9/9c27a09aa5dc68d78c12d67283482296.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/9/9c9c1276d783f5a013bd58682bb8a7c1.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/9/9c9c1276d783f5a013bd58682bb8a7c1.bin
+    projectPath: Library/ShaderCache/9/9c9c1276d783f5a013bd58682bb8a7c1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/a/a9b0c130a0c24a5b2771f05ebe0e16a6.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/a/a9b0c130a0c24a5b2771f05ebe0e16a6.bin
+    projectPath: Library/ShaderCache/a/a9b0c130a0c24a5b2771f05ebe0e16a6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/a/ab258bcbb6128fa399ad35958ffb9718.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/a/ab258bcbb6128fa399ad35958ffb9718.bin
+    projectPath: Library/ShaderCache/a/ab258bcbb6128fa399ad35958ffb9718.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/a/adb2baa746294a1d11f1c2c00feb7818.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/a/adb2baa746294a1d11f1c2c00feb7818.bin
+    projectPath: Library/ShaderCache/a/adb2baa746294a1d11f1c2c00feb7818.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/b/b45584a5ebfb247793f12ec58837aea4.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/b/b45584a5ebfb247793f12ec58837aea4.bin
+    projectPath: Library/ShaderCache/b/b45584a5ebfb247793f12ec58837aea4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/b/b8216dd79c57e9cc8570a2ff451f177a.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/b/b8216dd79c57e9cc8570a2ff451f177a.bin
+    projectPath: Library/ShaderCache/b/b8216dd79c57e9cc8570a2ff451f177a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/b/bdef1550d6e757f17f846eb368d6cf64.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/b/bdef1550d6e757f17f846eb368d6cf64.bin
+    projectPath: Library/ShaderCache/b/bdef1550d6e757f17f846eb368d6cf64.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/c/c32c7a9f004a409bd15821095a8ffa12.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/c/c32c7a9f004a409bd15821095a8ffa12.bin
+    projectPath: Library/ShaderCache/c/c32c7a9f004a409bd15821095a8ffa12.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/c/c602c91a48899d30ec9fc4bf3eb71dd4.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/c/c602c91a48899d30ec9fc4bf3eb71dd4.bin
+    projectPath: Library/ShaderCache/c/c602c91a48899d30ec9fc4bf3eb71dd4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/c/cdf3d9311719f3f847ce91dda49d9069.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/c/cdf3d9311719f3f847ce91dda49d9069.bin
+    projectPath: Library/ShaderCache/c/cdf3d9311719f3f847ce91dda49d9069.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/c/cfb429da5c4d6925a24111472fe6741f.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/c/cfb429da5c4d6925a24111472fe6741f.bin
+    projectPath: Library/ShaderCache/c/cfb429da5c4d6925a24111472fe6741f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d0ca050cbf1c2bf22c4b2a84645b3b78.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/d/d0ca050cbf1c2bf22c4b2a84645b3b78.bin
+    projectPath: Library/ShaderCache/d/d0ca050cbf1c2bf22c4b2a84645b3b78.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d2909aac41c3336e7f2a6cc9a0274207.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/d/d2909aac41c3336e7f2a6cc9a0274207.bin
+    projectPath: Library/ShaderCache/d/d2909aac41c3336e7f2a6cc9a0274207.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d4beb6411448557a01e7984dd1353820.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/d/d4beb6411448557a01e7984dd1353820.bin
+    projectPath: Library/ShaderCache/d/d4beb6411448557a01e7984dd1353820.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d6f65332fd8a3a8fc7e26d73d432a016.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/d/d6f65332fd8a3a8fc7e26d73d432a016.bin
+    projectPath: Library/ShaderCache/d/d6f65332fd8a3a8fc7e26d73d432a016.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/d/d840561db4a8407f900975500d5ec902.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/d/d840561db4a8407f900975500d5ec902.bin
+    projectPath: Library/ShaderCache/d/d840561db4a8407f900975500d5ec902.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/e/e142cc8eae3adf56a3311fa6ed399c0d.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/e/e142cc8eae3adf56a3311fa6ed399c0d.bin
+    projectPath: Library/ShaderCache/e/e142cc8eae3adf56a3311fa6ed399c0d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/f/f5296f7b835bc9b26c7280178154979d.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/f/f5296f7b835bc9b26c7280178154979d.bin
+    projectPath: Library/ShaderCache/f/f5296f7b835bc9b26c7280178154979d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/f/fa50fb619aabcbabb24f228d6943d227.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/f/fa50fb619aabcbabb24f228d6943d227.bin
+    projectPath: Library/ShaderCache/f/fa50fb619aabcbabb24f228d6943d227.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ShaderCache/f/fadcec91e6502af95b7f3bb2800a71b6.bin
+    fullPath: /Users/minana/Documents/Gloom/Library/ShaderCache/f/fadcec91e6502af95b7f3bb2800a71b6.bin
+    projectPath: Library/ShaderCache/f/fadcec91e6502af95b7f3bb2800a71b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/minana/Documents/Gloom/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/minana/Documents/Gloom/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/minana/Documents/Gloom/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/minana/Documents/Gloom/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB
+    fullPath: /Users/minana/Documents/Gloom/Library/SourceAssetDB
+    projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/d77777-646d95ac739656a41b.json
+    fullPath: /Users/minana/Documents/Gloom/Library/StateCache/Hierarchy/d77777-646d95ac739656a41b.json
+    projectPath: Library/StateCache/Hierarchy/d77777-646d95ac739656a41b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/Hierarchy/d77777-mainStage.json
+    fullPath: /Users/minana/Documents/Gloom/Library/StateCache/Hierarchy/d77777-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/d77777-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/141d07-646d95ac739656a41b.json
+    fullPath: /Users/minana/Documents/Gloom/Library/StateCache/SceneView/141d07-646d95ac739656a41b.json
+    projectPath: Library/StateCache/SceneView/141d07-646d95ac739656a41b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/StateCache/SceneView/141d07-mainStage.json
+    fullPath: /Users/minana/Documents/Gloom/Library/StateCache/SceneView/141d07-mainStage.json
+    projectPath: Library/StateCache/SceneView/141d07-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: /Users/minana/Documents/Gloom/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/minana/Documents/Gloom/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/minana/Documents/Gloom/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/NavMeshComponents.csprojAssemblyReference.cache
+    fullPath: /Users/minana/Documents/Gloom/obj/Debug/NavMeshComponents.csprojAssemblyReference.cache
+    projectPath: obj/Debug/NavMeshComponents.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/NavMeshComponentsExamples.csprojAssemblyReference.cache
+    fullPath: /Users/minana/Documents/Gloom/obj/Debug/NavMeshComponentsExamples.csprojAssemblyReference.cache
+    projectPath: obj/Debug/NavMeshComponentsExamples.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/NavMeshComponentsTestsPlaymode.csprojAssemblyReference.cache
+    fullPath: /Users/minana/Documents/Gloom/obj/Debug/NavMeshComponentsTestsPlaymode.csprojAssemblyReference.cache
+    projectPath: obj/Debug/NavMeshComponentsTestsPlaymode.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/minana/Documents/Gloom/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-01c913e20d7994b939d2fa5e006cc95b
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-01c913e20d7994b939d2fa5e006cc95b
+    projectPath: Temp/UnityTempFile-01c913e20d7994b939d2fa5e006cc95b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-043df88e2fae746f98a344881bb489af
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-043df88e2fae746f98a344881bb489af
+    projectPath: Temp/UnityTempFile-043df88e2fae746f98a344881bb489af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0ea91ed8c6b074014b1c26b78ea06544
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-0ea91ed8c6b074014b1c26b78ea06544
+    projectPath: Temp/UnityTempFile-0ea91ed8c6b074014b1c26b78ea06544
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-10c6161c021954e93a61d0099a149a09
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-10c6161c021954e93a61d0099a149a09
+    projectPath: Temp/UnityTempFile-10c6161c021954e93a61d0099a149a09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1117cfe7b2d8a41eaa8971fb4ee9b3b7
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-1117cfe7b2d8a41eaa8971fb4ee9b3b7
+    projectPath: Temp/UnityTempFile-1117cfe7b2d8a41eaa8971fb4ee9b3b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1659a989dd6d344d592d81ab50e0cfbf
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-1659a989dd6d344d592d81ab50e0cfbf
+    projectPath: Temp/UnityTempFile-1659a989dd6d344d592d81ab50e0cfbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-224ca621a57f64462ab7755937031ac8
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-224ca621a57f64462ab7755937031ac8
+    projectPath: Temp/UnityTempFile-224ca621a57f64462ab7755937031ac8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-24958d20306814be2810a0cd4c31af71
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-24958d20306814be2810a0cd4c31af71
+    projectPath: Temp/UnityTempFile-24958d20306814be2810a0cd4c31af71
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2f7b476b2d9a44587b6b4fd87a881ab0
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-2f7b476b2d9a44587b6b4fd87a881ab0
+    projectPath: Temp/UnityTempFile-2f7b476b2d9a44587b6b4fd87a881ab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-30401ad43657342768c0f0feead9e51a
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-30401ad43657342768c0f0feead9e51a
+    projectPath: Temp/UnityTempFile-30401ad43657342768c0f0feead9e51a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3107e75ad8d5a4a01a810de960734dcd
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-3107e75ad8d5a4a01a810de960734dcd
+    projectPath: Temp/UnityTempFile-3107e75ad8d5a4a01a810de960734dcd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3408360eaf92445c3ac06f40b09e52af
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-3408360eaf92445c3ac06f40b09e52af
+    projectPath: Temp/UnityTempFile-3408360eaf92445c3ac06f40b09e52af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4aaa39d0e5fff46ec9aa15d4025da878
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-4aaa39d0e5fff46ec9aa15d4025da878
+    projectPath: Temp/UnityTempFile-4aaa39d0e5fff46ec9aa15d4025da878
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4d63e832fd1ab4037b76f3f1fd88d04e
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-4d63e832fd1ab4037b76f3f1fd88d04e
+    projectPath: Temp/UnityTempFile-4d63e832fd1ab4037b76f3f1fd88d04e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5373d2abe39a041d98753d8ff077d8fb
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-5373d2abe39a041d98753d8ff077d8fb
+    projectPath: Temp/UnityTempFile-5373d2abe39a041d98753d8ff077d8fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5a50353b9ec634a3580975905229c9f9
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-5a50353b9ec634a3580975905229c9f9
+    projectPath: Temp/UnityTempFile-5a50353b9ec634a3580975905229c9f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6901446f608c942fda1a748367cfe2fb
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-6901446f608c942fda1a748367cfe2fb
+    projectPath: Temp/UnityTempFile-6901446f608c942fda1a748367cfe2fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-78003db0313f4409a8de4b9c9193a4b9
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-78003db0313f4409a8de4b9c9193a4b9
+    projectPath: Temp/UnityTempFile-78003db0313f4409a8de4b9c9193a4b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7da4eadd3d568486c915252a7303be06
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-7da4eadd3d568486c915252a7303be06
+    projectPath: Temp/UnityTempFile-7da4eadd3d568486c915252a7303be06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-817a6b0742d254a51825af7bc7a17097
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-817a6b0742d254a51825af7bc7a17097
+    projectPath: Temp/UnityTempFile-817a6b0742d254a51825af7bc7a17097
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-83c64ef5e86554b0e83649175758fea7
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-83c64ef5e86554b0e83649175758fea7
+    projectPath: Temp/UnityTempFile-83c64ef5e86554b0e83649175758fea7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8c620f596320a44c8a7b75651bb5bfba
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-8c620f596320a44c8a7b75651bb5bfba
+    projectPath: Temp/UnityTempFile-8c620f596320a44c8a7b75651bb5bfba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ace0e2f8b7ca14e1c92f99a2214eae15
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-ace0e2f8b7ca14e1c92f99a2214eae15
+    projectPath: Temp/UnityTempFile-ace0e2f8b7ca14e1c92f99a2214eae15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-af83bb7de1e20454d9e8e12f8f6c50bb
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-af83bb7de1e20454d9e8e12f8f6c50bb
+    projectPath: Temp/UnityTempFile-af83bb7de1e20454d9e8e12f8f6c50bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b5d1c7926a4da47459bc00278a2cfce8
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-b5d1c7926a4da47459bc00278a2cfce8
+    projectPath: Temp/UnityTempFile-b5d1c7926a4da47459bc00278a2cfce8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c2b75c2a8221a40c2801e8fccd6d5fcb
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-c2b75c2a8221a40c2801e8fccd6d5fcb
+    projectPath: Temp/UnityTempFile-c2b75c2a8221a40c2801e8fccd6d5fcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c3be219952487473391033d8980072fc
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-c3be219952487473391033d8980072fc
+    projectPath: Temp/UnityTempFile-c3be219952487473391033d8980072fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c7eb9c926df0447a9bb15ab1aacc33fa
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-c7eb9c926df0447a9bb15ab1aacc33fa
+    projectPath: Temp/UnityTempFile-c7eb9c926df0447a9bb15ab1aacc33fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cdb61fac0254d409787a4108a797aaf9
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-cdb61fac0254d409787a4108a797aaf9
+    projectPath: Temp/UnityTempFile-cdb61fac0254d409787a4108a797aaf9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d1209a7651ea649749fa5b0e3a2675aa
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-d1209a7651ea649749fa5b0e3a2675aa
+    projectPath: Temp/UnityTempFile-d1209a7651ea649749fa5b0e3a2675aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d20df27817e3f46af894538982816188
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-d20df27817e3f46af894538982816188
+    projectPath: Temp/UnityTempFile-d20df27817e3f46af894538982816188
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ea640e9ac7c674fcd9c9ce6c63664495
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-ea640e9ac7c674fcd9c9ce6c63664495
+    projectPath: Temp/UnityTempFile-ea640e9ac7c674fcd9c9ce6c63664495
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f9fac894668a54308a0ec1e7e53888d0
+    fullPath: /Users/minana/Documents/Gloom/Temp/UnityTempFile-f9fac894668a54308a0ec1e7e53888d0
+    projectPath: Temp/UnityTempFile-f9fac894668a54308a0ec1e7e53888d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

@@ -33,7 +33,8 @@ public class PlayerHealth : MonoBehaviour
         if (currHealth < 0)
         {
             currHealth = 0;
-            //GetComponent<DeathHandler>().HandleDeath(); // for animation use
+            // game over
+            //GetComponent<DeathHandler>().HandleDeath(); 
         }
     }
     public void Heal(int healAmount)

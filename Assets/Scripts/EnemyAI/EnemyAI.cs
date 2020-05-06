@@ -6,29 +6,32 @@ using UnityEngine.AI;
 
 public class EnemyAI : MonoBehaviour
 {
+    [SerializeField] Transform target;
     [SerializeField] float chaseRange = 5f;
     [SerializeField] float turnSpeed = 5f;
+    NavMeshAgent navMeshAgent;
 
 
     float distanceToTarget = Mathf.Infinity;
     private bool isProvoked = false;
-    NavMeshAgent navMeshAgent;
     EnemyHealth health;
-    Transform target;
+    //Transform target;
     public float hitEffectTime = .3f;
    // Color baseColor;
-    public Color flashColor = Color.red;
-    public new MeshRenderer renderer;
+   // public Color flashColor = Color.red;
+    //public new MeshRenderer renderer;
 
     void Start()
     {
         navMeshAgent = GetComponent<NavMeshAgent>();
         health = GetComponent<EnemyHealth>();
-        target = FindObjectOfType<PlayerHealth>().transform;
+     //   target = FindObjectOfType<PlayerHealth>().transform;
     }
 
     void Update()
     {
+      //  navMeshAgent.SetDestination(target.position);
+
         if (health.IsDead())
         {
             enabled = false;
